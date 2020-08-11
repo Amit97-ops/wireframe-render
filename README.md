@@ -14,11 +14,13 @@ y, and z coordinates. The number of points and coordinates are repeated until al
 been drawn. An example of the file format is shown below.
 
 
-![image](https://github.com/Amit97-ops/wireframe-render/blob/master/world.png)
+![image](https://github.com/Amit97-ops/wireframe-render/blob/master/worldSource.png)
  
 The viewing space also includes a 3D grid for users to understand the coordinates of the 
 designed object. Users are allowed to change the viewing angle of a specified axis by pressing 
 the x, y, or z keys to rotate around their respective axis. AitkenÕs interpolation was used to create 
 the wireframe drawings. Some examples are shown below.  
-     
+![image](https://github.com/Amit97-ops/wireframe-render/blob/master/Picture1.png)
+![image](https://github.com/Amit97-ops/wireframe-render/blob/master/Picture2.png)
+![image](https://github.com/Amit97-ops/wireframe-render/blob/master/Picture3.png)
  
